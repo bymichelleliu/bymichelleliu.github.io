@@ -3,5 +3,6 @@ body { background-color: #FFFFFF; }
 header {
 	font-size: 12px;
 	background-color: #000000;
-	color: #cccccc;
+	font-family: allegro;
+	font-color: black;
 	height: 75px; }
