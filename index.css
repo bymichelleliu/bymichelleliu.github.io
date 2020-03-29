@@ -1,6 +1,20 @@
 body { background-color: #FFFFFF; }
 
 h1 {
+	<style>
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+</style>  
+	
 	font-size: 12px;
 	background-color: #000000;
 	font-color: #A27F77;
